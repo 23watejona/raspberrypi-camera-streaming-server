@@ -1,0 +1,9 @@
+[Unit]
+Description=Streaming Web Server
+
+[Service]
+ExecStart=/home/pi/webserver/webserver.sh
+Restart=always
+
+[Install]
+WantedBy=default.target

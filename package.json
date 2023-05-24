@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "raspberry-pi-camera-native": "^0.0.0"
+  }
+}
