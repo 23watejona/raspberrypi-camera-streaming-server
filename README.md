@@ -1,4 +1,4 @@
-#Installation Instructions:
+# Installation Instructions:
 1. Image a microsd with raspbian desktop
    * I recommend using the raspberry pi imaging tool
 2. Go through the setup 
