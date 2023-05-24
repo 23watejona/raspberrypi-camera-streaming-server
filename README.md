@@ -10,9 +10,9 @@ Installation Instructions:
 		If rsync isn't installed in git bash, go [here](https://ayewo.com/how-to-install-rsync-on-windows/)
 
 	4. Navigate to the directory that has the files
-		```console
-		cd {path to file directory}
-		```
+```console
+cd {path to file directory}
+```
 
 	5. Copy the files from 
 		```console
